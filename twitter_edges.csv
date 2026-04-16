@@ -1,0 +1,10 @@
+Source,Target,interaction
+A,B,mention
+A,C,reply
+B,D,retweet
+C,D,mention
+D,E,reply
+E,F,retweet
+F,A,mention
+B,E,retweet
+C,F,reply
